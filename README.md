@@ -1,2 +1,2 @@
 # Proposal
-https://rudehunter.github.io/Proposal/Propose.html
+https://inscoding.github.io/Proposal/Propose.html
